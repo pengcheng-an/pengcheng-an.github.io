@@ -66,7 +66,7 @@ N.B: Videos (file formats included in `.gitignore`) will NOT pushed/synced to gi
 1. Configure your `coscmd` on your Mac/PC. `pip install coscmd` See [COSCMD 工具](https://cloud.tencent.com/document/product/436/10976). 
 2. Find and sync videos from localhost to cos bucket. via `bash` code below. e.g., 
 To find any (*) `.mov` videos in [hugo_root]/content and upload to `cos_root` 
-```bash
+```
 coscmd upload -rs [path_to_your_hugo_root]/content/ / --include "*.mov"
 ```
 
@@ -96,6 +96,35 @@ Convert gif to webp
 ```
 find ./ -type f -name '*.gif' -exec sh -c 'gif2webp $1 -o "${1%.gif}.webp"' _ {} \;
 ```
+
+### Publish
+Before publishing, you shall preview your website in your localhost via
+```
+hugo server --disableFastRender
+```
+If everything works great, you could then git `add` `commit` and `push` the modification to GitHub for COS deployment. 
+To view what has been added/modified/removed,
+```
+git status
+```
+To add all modified,
+```
+git add .
+```
+or too add only specific files,
+```
+git add /path/to/file(s),
+```
+To commit the `add`s
+```
+git commit -m "description of this git command",
+```
+Finally, to push the commits for COS deployment
+```
+git push
+```
+N.B. If your commits contain videos, they won't be pushed to GitHub and to sync them, you will need `COSCMD` as mentioned earlier. You might do multiple commits before `git push` to send all committed revisions to GitHub repo. 
+
 
 
 
