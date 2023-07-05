@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>children on Pengcheng An</title>
+    <link>https://anpengcheng.cn/categories/children/</link>
+    <description>Recent content in children on Pengcheng An</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Aug 2020 21:29:20 +0200</lastBuildDate><atom:link href="https://anpengcheng.cn/categories/children/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neurofeedback Games for ASD Children</title>
+      <link>https://anpengcheng.cn/blog/2020/08/01/nft/</link>
+      <pubDate>Sat, 01 Aug 2020 21:29:20 +0200</pubDate>
+      
+      <guid>https://anpengcheng.cn/blog/2020/08/01/nft/</guid>
+      <description>[By Zhaoyi Yang, Pengcheng An, Jinchen Yang, Samuel Strojny, Zihui Zhang, Dongsheng Sun, and Jian Zhao] Neurofeedback games are an effective and playful approach to enhance certain social and attentional capabilities in children with autism, which are promising to become widely accessible along with the commercialization of mobile EEG modules. However, little industry-based experiences are shared, regarding how to better design neurofeedback games to fine-tune their playability and user experiences for autistic children.</description>
+    </item>
+    
+  </channel>
+</rss>

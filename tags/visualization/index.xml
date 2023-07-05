@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>visualization on Pengcheng An</title>
+    <link>https://anpengcheng.cn/tags/visualization/</link>
+    <description>Recent content in visualization on Pengcheng An</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Aug 2022 21:29:20 +0200</lastBuildDate><atom:link href="https://anpengcheng.cn/tags/visualization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Classroom Dandelions</title>
+      <link>https://anpengcheng.cn/blog/2022/08/01/dandelions/</link>
+      <pubDate>Mon, 01 Aug 2022 21:29:20 +0200</pubDate>
+      
+      <guid>https://anpengcheng.cn/blog/2022/08/01/dandelions/</guid>
+      <description>[By Gloria Fernandez-Nieto, Pengcheng An, Jian Zhao, Simon Buckingham Shum, Roberto Martinez-Maldonado] Despite the digital revolution, physical space remains the site for teaching and learning embodied knowledge and skills. Both teachers and students must develop spatial competencies to effectively use classroom spaces, enabling fluid verbal and non-verbal interaction. While video permits rich activity capture, it provides no support for quickly seeing activity patterns that can assist learning. In contrast, position tracking systems permit the automated modelling of spatial behaviour, opening new possibilities for feedback.</description>
+    </item>
+    
+  </channel>
+</rss>

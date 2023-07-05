@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ambient display on Pengcheng An</title>
+    <link>https://anpengcheng.cn/tags/ambient-display/</link>
+    <description>Recent content in ambient display on Pengcheng An</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Aug 2019 21:29:20 +0200</lastBuildDate><atom:link href="https://anpengcheng.cn/tags/ambient-display/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ClassBeacons</title>
+      <link>https://anpengcheng.cn/blog/2019/08/01/classbeacons/</link>
+      <pubDate>Thu, 01 Aug 2019 21:29:20 +0200</pubDate>
+      
+      <guid>https://anpengcheng.cn/blog/2019/08/01/classbeacons/</guid>
+      <description>[By Pengcheng An, Saskia Bakker, Sara Ordanovski, Berry Eggen et al.] Reflecting on their performance during classroom-teaching is an important competence for teachers. Such reflection-in-action (RiA) enables them to optimize teaching on the spot. But RiA is also challenging, demanding extra thinking in teachers&#39; already intensive routines.
+Little is known on how HCI systems can facilitate teachers&#39; RiA during classroom-teaching. To fill in this gap, we evaluate ClassBeacons, a system that uses spatially distributed lamps to depict teachers&#39; ongoing performance on how they have divided their time and attention over students in the classroom.</description>
+    </item>
+    
+  </channel>
+</rss>

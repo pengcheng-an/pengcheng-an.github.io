@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Pengcheng An</title>
+    <link>https://anpengcheng.cn/authors/</link>
+    <description>Recent content in Authors on Pengcheng An</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Oct 2015 21:49:20 +0200</lastBuildDate><atom:link href="https://anpengcheng.cn/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jane Doe</title>
+      <link>https://anpengcheng.cn/authors/jane-doe/</link>
+      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      
+      <guid>https://anpengcheng.cn/authors/jane-doe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>zxc</title>
+      <link>https://anpengcheng.cn/authors/zxc/</link>
+      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      
+      <guid>https://anpengcheng.cn/authors/zxc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

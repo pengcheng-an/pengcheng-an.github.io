@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>emotion on Pengcheng An</title>
+    <link>https://anpengcheng.cn/tags/emotion/</link>
+    <description>Recent content in emotion on Pengcheng An</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Aug 2022 21:29:20 +0200</lastBuildDate><atom:link href="https://anpengcheng.cn/tags/emotion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VibEmoji</title>
+      <link>https://anpengcheng.cn/blog/2022/08/01/vibemoji/</link>
+      <pubDate>Mon, 01 Aug 2022 21:29:20 +0200</pubDate>
+      
+      <guid>https://anpengcheng.cn/blog/2022/08/01/vibemoji/</guid>
+      <description>[By Pengcheng An*, Ziqi Zhou*, Qing Liu*, Yifei Yin, Linghao Du, Da-Yuan Huang, and Jian Zhao✉] Emoticons are indispensable in online communications. With users’ growing needs for more customized and expressive emoticons, recent messaging applications begin to support (limited) multi-modal emoticons, enhancing emoticons with animations or vibrotactile feedback. However, little empirical knowledge has been accumulated concerning how people create, share and experience multi-modal emoticons in everyday communication, and how to better support them through design.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>social robot on Pengcheng An</title>
+    <link>https://anpengcheng.cn/categories/social-robot/</link>
+    <description>Recent content in social robot on Pengcheng An</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Aug 2020 21:29:20 +0200</lastBuildDate><atom:link href="https://anpengcheng.cn/categories/social-robot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dementia Care Robot</title>
+      <link>https://anpengcheng.cn/blog/2020/08/01/robot-for-elderly-with-dementia/</link>
+      <pubDate>Sat, 01 Aug 2020 21:29:20 +0200</pubDate>
+      
+      <guid>https://anpengcheng.cn/blog/2020/08/01/robot-for-elderly-with-dementia/</guid>
+      <description>[By Di Zhou, Emilia I Barakova, Pengcheng An, Matthias Rauterberg] Almost all older people with dementia have progressive communication difficulties, which lead to increased social isolation and negative emotions. Thus, providing communication assistance for them is essential. This paper explores the feasibility of using social robots to assist older people with dementia in their face-to-face communication with others.
+We designed the behavior of a humanoid Pepper robot and made a Wizard of Oz prototype that the robot can serve as a personal memory assistant.</description>
+    </item>
+    
+  </channel>
+</rss>
